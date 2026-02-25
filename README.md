@@ -2,7 +2,7 @@
 
 Monitor Aave v3 positions across all major EVM chains. Check health factors, collateral, debt, and get liquidation warnings.
 
-## Install as Claude Code Skill
+## Install as Agent Skill
 
 ```bash
 curl -sL https://raw.githubusercontent.com/publu/aave-sentinel/master/aave-sentinel.md >> ~/.claude/skills/aave-sentinel.md
